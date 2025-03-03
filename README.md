@@ -1,4 +1,5 @@
-## Hi there 👋
+- 📚 なんか色々やってる人です(雑)
+- 🕊️ Twitter @hach7__
 
 <!--
 **Hach1App/Hach1App** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
